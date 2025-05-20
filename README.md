@@ -19,7 +19,7 @@ Features
 
 #Clone the repository:
  - bash
- -git clone https://github.com/yourusername/cross-tabulation-tool.git
+ -git clone https://github.com/uk5/cross-tabulation-tool.git
  - cd cross-tabulation-tool
 
 # Install dependencies:
@@ -36,8 +36,9 @@ Features
 - Plotly
 - XlsxWriter
 - Usage Guide
-Loading Data
-Start the application and use the file uploader to select your data file (CSV, XLS, or XLSX).
+- Loading Data
+
+#Start the application and use the file uploader to select your data file (CSV, XLS, or XLSX).
 The app will automatically detect and convert appropriate columns to numeric types.
 Editing Data
 Navigate to the "Data Editor" tab.
